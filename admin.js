@@ -1,5 +1,7 @@
 // API Configuration
+// const API_BASE_URL = 'http://localhost:5000/api/v1';
 const API_BASE_URL = 'https://coursify-server-t8ou.onrender.com/api/v1';
+
 
 // DOM Elements
 const navLinks = document.getElementById('navLinks');
